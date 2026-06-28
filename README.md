@@ -27,20 +27,20 @@ The dataset contains information about:
 
 ## Tasks Completed
 
-# 1. Exploratory Data Analysis (EDA)
+### 1. Exploratory Data Analysis (EDA)
 - Checked dataset structure and information
 - Analyzed columns and data types
 - Checked missing values and duplicates
 - Performed statistical analysis
 
-# 2. Data Visualization
+### 2. Data Visualization
 Created visualizations to understand:
 - Top product categories
 - Actual price vs discount price relationship
 - Rating distribution
 - Highest discount products
 
-# 3. Web Scraping
+### 3. Web Scraping
 - Collected data from websites using Python libraries
 - Converted extracted data into a structured format
 
